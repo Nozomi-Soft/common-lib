@@ -1,4 +1,4 @@
-package com.nozomisoftnet;
+package com.nozomisoft.common;
 
 import static org.junit.Assert.assertTrue;
 
